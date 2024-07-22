@@ -1,0 +1,11 @@
+from setuptools import setup 
+
+setup(
+    name='HelloWorld',
+    url='https://github.com/Dexerix/HelloWorld',
+    author='Dorian Luyet',
+    packages=['package'],
+    version='0.5',
+    license='MIT',
+    description='a library that offers fun and innovative new ways to print and do Hello Worlds'
+)
