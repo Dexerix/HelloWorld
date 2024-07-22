@@ -9,5 +9,5 @@ Inspired by internet memes and javascript's `console.log()`
 you can install the library using `pip install`
 
 ```
-pip install git+https://github.com/Dexerix/HelloWorld.git#egg=helloworld
+pip install git+https://github.com/Dexerix/HelloWorld.git
 ```
