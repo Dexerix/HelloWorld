@@ -8,5 +8,5 @@ setup(
     package_dir={'HelloWorld':'HelloWorld'},
     version='0.6',
     license='MIT',
-    description='a library that offers fun and innovative new ways to print and do Hello Worlds'
+    long_description='a library that offers fun and innovative new ways to print and do Hello Worlds'
 )
